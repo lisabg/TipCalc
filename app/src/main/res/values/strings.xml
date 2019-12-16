@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tip Calc</string>
+    <string name="bill">Bill:</string>
+    <string name="tip_perc">Tip Percentage:</string>
+    <string name="calculate">Calculate</string>
+    <string name="tipResultText">Tip: $%.2f Total: $%.2f</string>
+
+</resources>
